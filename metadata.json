@@ -1,0 +1,6 @@
+{
+  "name": "AI Work Agent — CrewAI Autonomous Workspace",
+  "description": "Production-ready Gen unified autonomous AI work agent with recurring maintenance task scheduler, deep reasoning, tool orchestration, coding, testing, RAG documents, and memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
